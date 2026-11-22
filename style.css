@@ -1,0 +1,16 @@
+.mouse {
+    width: 500px;
+    height: 500px;
+    border: 20px;
+    background-color: lightcoral;
+}
+#plus {
+    width: 100px ;
+    height: 50px;
+    border-radius: 15px;
+}
+#minus {
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+}
